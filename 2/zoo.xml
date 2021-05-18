@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<zoo>
+	<name>Zoo de Madrid</name>
+	<areas>
+		<area name="Africa" number="1">
+			<cages>
+				<cage number="101">
+					<animals>
+						<animal type="Paquidermo">Hipopotamo</animal>
+						<animal type="Paquidermo">Elefante</animal>
+					</animals>
+				</cage>
+				<cage number="102">
+					<animals>
+						<animal type="Bovido">Antilope</animal>
+						<animal type="Felino">Leon</animal>
+					</animals>
+				</cage>
+			</cages>
+		</area>
+
+		<area name="Asia" number="2">
+			<cages>
+				<cage number="201">
+					<animals>
+						<animal type="Felino">Tigre</animal>
+						<animal type="Paquidermo">Elefante</animal>
+					</animals>
+				</cage>
+				<cage number="202">
+					<animals>
+						<animal type="Oso">Panda</animal>
+						<animal type="Bovido">Ñu</animal>
+					</animals>
+				</cage>
+			</cages>
+		</area>
+
+		<area name="Europa" number="3">
+			<cages>
+				<cage number="301">
+					<animals>
+						<animal type="Canido">Lobo</animal>
+						<animal type="Roedor">Conejo</animal>
+					</animals>
+				</cage>
+				<cage number="302">
+					<animals>
+						<animal type="Oso">Oso pardo</animal>
+					</animals>
+				</cage>
+			</cages>
+		</area>
+
+	</areas>
+</zoo>
